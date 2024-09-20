@@ -5,7 +5,7 @@ dumping ground for links until I get around to organizing them....
 Cert home page
 https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-102
 
-
+------------------------
 
 **Develop Generative AI solutions with Azure OpenAI Service**
 
@@ -38,6 +38,8 @@ https://learn.microsoft.com/en-us/training/modules/generate-images-azure-openai/
 
 https://learn.microsoft.com/en-us/training/modules/responsible-generative-ai/
 
+---------------------------
+
 **Develop solutions with Azure AI Document Intelligence**
 
 https://learn.microsoft.com/en-us/training/paths/extract-data-from-forms-document-intelligence/ 
@@ -64,6 +66,7 @@ https://learn.microsoft.com/en-us/training/modules/create-composed-form-recogniz
 
 https://learn.microsoft.com/en-us/training/modules/build-form-recognizer-custom-skill-for-azure-cognitive-search/ 
 
+------------------------------------
 
 **Implement knowledge mining with Azure Cognitive Search**
 
