@@ -56,4 +56,7 @@ others, cn be customized
 
 exercize https://microsoftlearning.github.io/mslearn-ai-services/Instructions/Exercises/05-implement-content-safety.html
 
+create resource
+
+
 
