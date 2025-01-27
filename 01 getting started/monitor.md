@@ -39,3 +39,7 @@ check logs in azure storage
 ceck logs in log analytics
 
 exercise instructions https://microsoftlearning.github.io/mslearn-ai-services/Instructions/Exercises/03-monitor-ai-services.html
+
+to do:
+create an alert
+https://microsoftlearning.github.io/mslearn-ai-services/Instructions/Exercises/03-monitor-ai-services.html
