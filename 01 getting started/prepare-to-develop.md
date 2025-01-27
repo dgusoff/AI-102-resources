@@ -11,6 +11,10 @@ Define Artificial Intelligence
 * Speech - recognize as input and synthesize as output - conversational AI
 * Decision Making - past experience, learned correlaitons -> assess and act
 
+## questions:
+name the four capabilities of artificial intelligence (above)
+
+
 
 ## AI Terms
 
@@ -42,6 +46,8 @@ Artificial Intelligence
   * potential for harm through inaccuracy or misuse
 
   # COnsiderations for Responsible AI
+
+  ## question: name the four considerations for responsible AI
 
   ## Fairness
   * consider form the beginning of process
