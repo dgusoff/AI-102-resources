@@ -39,4 +39,4 @@ Follow ups
 * execute sdk code for content moderation of text, images, etc
 * browse contetn moderation examples at https://ai.azure.com/explore/contentsafety
 * run some ai services in containers
-
+* view diagnostics logs in strage account and analytics workspace
